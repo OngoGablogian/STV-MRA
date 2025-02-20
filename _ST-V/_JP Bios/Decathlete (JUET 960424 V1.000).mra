@@ -1,5 +1,5 @@
 <misterromdescription>
-	<rbf>Saturn</rbf>
+	<rbf>STV</rbf>
 	<setname>saturnstv</setname>
 	<rom index="2" md5="" zip="stvbios.zip" address="0x30000000">
 		<interleave output="64">
