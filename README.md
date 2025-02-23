@@ -4,7 +4,7 @@ Generated MRA files for testing ST-V support in the MiSTer Saturn core.
 How to use:
 
 * Grab the latest release of this repo and extract it to /media/fat/_Arcade
-* Copy the latest Saturn core RBF to /media/fat/_Arcade/cores/Saturn.rbf
+* Copy the latest Saturn core RBF to /media/fat/_Arcade/cores/STV.rbf
 * Copy all mame ST-V roms to /media/fat/games/mame. You will also need stvbios.zip. Merged sets are preferred, but split should also work.
 * All of the ST-V MRAs should be in ST-V directory in your Arcade list.
 * Launch any ST-V game. Open the OSD and change the 'Cart type' to STV. Save your settings.

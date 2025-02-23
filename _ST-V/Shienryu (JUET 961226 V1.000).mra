@@ -1,6 +1,6 @@
 <misterromdescription>
-	<rbf>Saturn</rbf>
-	<setname>saturnstv</setname>
+	<rbf>STV</rbf>
+	<setname>STV</setname>
 	<rom index="1" md5="" zip="shienryu.zip" address="0x32000000">
 		<interleave output="64">
 			<part crc="98db6925" name="eeprom-shienryu.bin" map="12345678" />

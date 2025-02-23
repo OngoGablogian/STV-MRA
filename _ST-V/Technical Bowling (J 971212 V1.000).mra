@@ -1,6 +1,6 @@
 <misterromdescription>
-	<rbf>Saturn</rbf>
-	<setname>saturnstv</setname>
+	<rbf>STV</rbf>
+	<setname>STV</setname>
 	<rom index="1" md5="" zip="techbowl.zip" address="0x32000000">
 		<interleave output="64">
 			<part crc="5bebc2b7" name="techbowl.nv" map="12345678" />

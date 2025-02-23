@@ -1,6 +1,6 @@
 <misterromdescription>
-	<rbf>Saturn</rbf>
-	<setname>saturnstv</setname>
+	<rbf>STV</rbf>
+	<setname>STV</setname>
 	<rom index="1" md5="" zip="introdon.zip" address="0x32000000">
 		<part repeat="0x80">00</part>
 	</rom>

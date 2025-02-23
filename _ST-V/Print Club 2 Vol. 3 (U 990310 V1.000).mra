@@ -1,6 +1,6 @@
 <misterromdescription>
-	<rbf>Saturn</rbf>
-	<setname>saturnstv</setname>
+	<rbf>STV</rbf>
+	<setname>STV</setname>
 	<rom index="1" md5="" zip="pclub2v3.zip|pclub2.zip" address="0x32000000">
 		<interleave output="64">
 			<part crc="a8a2d30c" name="pclub2v3.nv" map="12345678" />
